@@ -3,10 +3,10 @@ Wat extra uitleg over de 2e functie, meetkundige_rij():
 
 Start is het startgetal
 Factor is de factor, dus de verdubbelaar.
-Exponent is hoe vaak je verdubbeld... dus gelijk aan de LENGTE van de rij!
+Exponent is hoe vaak je vermenigvuldigd... dus gelijk aan de LENGTE van de rij!
 
 Voorbeeld uitvoer van meetkundige_rij(5,2,5) is [5, 10, 20, 40, 80]
-Want: Startgetal is 5, de verdubbeling is steeds keer-2 (dus 5, 10, 20, etc), en de lengte vd lijst moet 5 zijn (ofwel 'de exponent')
+Want: Startgetal is 5, de vermenigvuldiging is steeds keer-2 (dus 5, 10, 20, etc), en de lengte vd lijst moet 5 zijn (ofwel 'de exponent')
 
 ## rekenkundige_rij() ##
 Voorbeeld invoer-uitvoer van wat de functie rekenkundige_rij() moet doen:
