@@ -2,7 +2,7 @@
 Wat extra uitleg over de 2e functie, meetkundige_rij():
 
 Start is het startgetal
-Factor is de factor, dus de verdubbelaar.
+Factor is de factor, dus met hoe veel je iedere stap vermenigvuldigd.
 Exponent is hoe vaak je vermenigvuldigd... dus gelijk aan de LENGTE van de rij!
 
 Voorbeeld uitvoer van meetkundige_rij(5,2,5) is [5, 10, 20, 40, 80]
